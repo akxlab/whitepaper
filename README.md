@@ -5,6 +5,8 @@ by Nicolas Cloutier, Co-Founder & Lead Developer
 
 VERSION: 1.0.0
 
+TARGETTED AUDIENCE: EARLY INVESTORS
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -13,8 +15,10 @@ VERSION: 1.0.0
 ## TABLE OF CONTENTS
 
 - [AKX3 ECOSYSTEM WHITEPAPER](#akx3-ecosystem-whitepaper)
-  - [PREFACE: WHY AKX3](#preface-why-akx3)
+  - [TABLE OF CONTENTS](#table-of-contents)
+  - [PREFACE: HOW DID AKX3 CAME TO EXISTS AND WHY](#preface-how-did-akx3-came-to-exists-and-why)
     - [Problem #1 Wen Rich? (typo is on purpose)](#problem-1-wen-rich-typo-is-on-purpose)
+    - [Problem #2: THE ICO LEGACY AND LACK OF REAL SUBSTITUTE](#problem-2-the-ico-legacy-and-lack-of-real-substitute)
   - [WHAT IS AKX3](#what-is-akx3)
   - [AKX3: TACKLING THE ONCHAIN IDENTITY PROBLEM](#akx3-tackling-the-onchain-identity-problem)
 
@@ -23,7 +27,7 @@ VERSION: 1.0.0
 <p>&nbsp;</p>
 
 
-## PREFACE: WHY AKX3
+## PREFACE: HOW DID AKX3 CAME TO EXISTS AND WHY
 
 The **AKX3** idea is coming from a blockchain project back in 2017 when ICOs were all the rage. We were known back then as *Kryptopy Inc*. and we wanted to make something new and disruptive. The whole idea which was new back then was to develop a social network on Ethereum that is efficient and that does provide trade-copying features similar to *eToro*. (eToro does support cryptocurrency now but it didn't in 2017). People liked the project so much that we ended up being nominated as **Blockchain Startup of the Year**. That was also the year of "*cryptokitty*", scaling problems, security problems and massive hacks that did occur on the **Ethereum mainnet**. Those events made us rethink our project and refund our backers fully as it was proof that the Ethereum ecosystem wasn't ready back then for such a project. 
 
@@ -52,6 +56,11 @@ To take the infamous words of one of the top meme coin founder: "Trading crypto 
 AKX3 wants to bring solutions to that very hard problem via various initiatives that we believe will help the industry be healthier and go mainstream faster. One of the more obvious solution is to **enhance communication with the "less industry educated" public** by making the technology more accessible and appealing to them while removing greed from the equation. That is something we keep in mind and at the center of everything we do.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+### Problem #2: THE ICO LEGACY AND LACK OF REAL SUBSTITUTE
+
+
+
 
 
 ## WHAT IS AKX3
